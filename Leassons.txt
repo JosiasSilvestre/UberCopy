@@ -1,0 +1,8 @@
+style={{ flex: 1 }}
+- fazer um componente ocupar toda a tela
+
+showsUserLocation
+- mostrar um simbolo conforme a posição que o usuário anda no mapa 
+
+no cmd: npm install react-native-google-places-autocomplete
+- criar campo que completa a pesquisa do usuário
